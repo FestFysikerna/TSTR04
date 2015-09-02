@@ -1,0 +1,6 @@
+Filen f.m innehåller funktionen och man kan lägga till fler grafer om man skriver
+Y(:,2) = ...
+Y(:,3) = ...
+osv..
+
+Filen graph.m innehåler alla variablarna och plottar grafen.
