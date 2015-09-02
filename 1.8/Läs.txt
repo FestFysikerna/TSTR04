@@ -1,6 +1,14 @@
-Filen f.m innehåller funktionen och man kan lägga till fler grafer om man skriver
+f.m
+innehåller funktionen och man kan lägga till fler grafer om man skriver
 Y(:,2) = ...
 Y(:,3) = ...
 osv..
 
-Filen graph.m innehåler alla variablarna och plottar grafen.
+graph.m
+innehåler alla variablarna
+plottar grafen.
+
+graph2.m
+innehåler alla variablarna
+plottar grafen.
+namnger titel, x&y-axel
